@@ -1,14 +1,16 @@
+
 body{
     background-color: rgb(246, 248, 248);
 }
-.container clearfix {
-    border: solid;
+.KSHPR {
+  text-align: center; 
 }
 header{
   border: solid;
-  border-color: DodgerBlue;
+  border-color: rgb(49, 255, 30);
   border-top: 10%;
   background-color: DodgerBlue;
+  border-radius: 10px;
 }
 header h1{
     text-align: center;  
@@ -22,6 +24,14 @@ header img{
     width: 10%;
     height: 10%;
   
+}
+.line{
+    text-align: center;
+}
+.news{
+    color: brown;
+    background-color: rgb(252, 227, 9);
+    border-radius: 5px;
 }
 
 .table {
@@ -61,5 +71,23 @@ table {
     text-indent: initial;
     border-spacing: 2px;
     border-color: grey;
+}
+
+.JOIN{
+   
+    margin-top: 10px;
+    background-color: #16b808; 
+    border-color: rgb(31, 214, 7);
+    color: rgb(17, 16, 16);
+    border-radius: 5px;
+   
+}
+.JOIN:hover{
+    background-color: #03fa10;
+    border-radius: 5px;
+    color: rgb(221, 127, 13);
+    border-color: rgb(31, 214, 7);
+  
+    
 }
 
