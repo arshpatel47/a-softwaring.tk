@@ -43,7 +43,6 @@ header img{
 .button {
    margin-left: 10px;
     margin-top: 5px;
-     margin-bottom: 5px;
     display: inline-block;
     background-color:cadetblue;
     color: #fff;
@@ -63,10 +62,6 @@ a {
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
-    overflow: hidden;
-    overflow-x: hidden;
-    overflow-y: hidden;
-
 }
 .mid h4{
     margin-left: 10px;
